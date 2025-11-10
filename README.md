@@ -72,5 +72,6 @@ Simulación finalizada.
 - Añadir interfaz gráfica o panel de estado en tiempo real.
 
 ## 🧑‍💻 Autor
+Alberto agredano orellana
 Proyecto de repaso Tema 07 – **Semáforos en Java (Programación de Servicios y Procesos)**  
 Desarrollado con IntelliJ IDEA.
